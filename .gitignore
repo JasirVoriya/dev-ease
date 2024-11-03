@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+*.egg-info/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+*.class
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Build directories
+build/
+dist/
+
+# Others
+*.bak
+*.swp
+*.swo
+*.tmp
+*.temp
+*.pid
+*.seed
+*.sqlite
