@@ -35,7 +35,7 @@ This script automates the installation and configuration of a development enviro
 3. **Run the script**: Run the script as the root user or with sudo privileges.
 
    ```bash
-      chmod +x install.sh
+      ./install.sh
    ```
 
 4. **Follow the prompts**: The script will prompt the user for confirmation at various stages; press any key to continue.
