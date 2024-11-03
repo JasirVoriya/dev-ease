@@ -1,5 +1,9 @@
 # 自动化环境设置脚本
 
+## 语言选择 / Language Selection
+
+[中文](REAEME.md) | [English](README.en.md)
+
 ## 概述
 
 该脚本用于在基于 Debian 的 Linux 系统上自动安装和配置开发环境，主要包括 Zsh、Oh My Zsh、Zsh 插件、Powerlevel10k 主题、Neovim 及其插件管理器 Lazy.nvim。它旨在简化开发者的环境搭建过程，提供更为高效和个性化的命令行体验。

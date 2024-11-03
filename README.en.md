@@ -1,5 +1,9 @@
 # Automated Environment Setup Script
 
+## 语言选择 / Language Selection
+
+[中文](REAEME.md) | [English](README.en.md)
+
 ## Overview
 
 This script automates the installation and configuration of a development environment on Debian-based Linux systems, primarily including Zsh, Oh My Zsh, Zsh plugins, the Powerlevel10k theme, Neovim, and its plugin manager Lazy.nvim. It aims to simplify the environment setup process for developers, providing a more efficient and personalized command-line experience.
